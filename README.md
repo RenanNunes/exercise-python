@@ -1,4 +1,4 @@
-# Proejeto 02
+# Projeto 02
 
 desenvolvido por :
 - Klinsmann Ferreira de Sousa
